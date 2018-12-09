@@ -24,3 +24,9 @@ Server : AWS(Amazon WebService)
 
 Tools : Eclipse Oxygen (4.7)
 
+#Screen Shot
+
+<div>
+   <img width = "33%" src = https://user-images.githubusercontent.com/42988982/49698161-79996e80-fc03-11e8-9b8e-251f49b1503c.PNG>
+   <img width = "33%" src = https://user-images.githubusercontent.com/42988982/49698172-9635a680-fc03-11e8-964b-1f6cd7918f95.PNG>
+</div>
